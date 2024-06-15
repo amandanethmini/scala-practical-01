@@ -4,6 +4,6 @@ object volume {
   def main(args: Array[String]): Unit = {
     var r = 5
     var volume = volumeOfSphere(r)
-    println("volume of a sphere is " + volume)
+    println(f"volume of a sphere is $volume%.2f")
   }
 }

@@ -4,7 +4,7 @@ object areaOfDisk {
   def main(args: Array[String]): Unit = {
     val r = 5
     val area = areaOfDisk(r)
-    println("Area of a disk is " + area)
+    println(f"Area of a disk is $area%.2f")
   }
 
 }

@@ -5,6 +5,7 @@ object areaOfDisk {
     val r = 5
     val area = areaOfDisk(r)
     println(f"Area of a disk is $area%.2f")
+    //comments
   }
 
 }
